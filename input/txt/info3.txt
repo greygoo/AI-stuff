@@ -1,0 +1,526 @@
+Eine Leuchtdiode (kurz LED von englisch light-emitting diode, deutsch ‚lichtemittierende Diode‘, auch Lumineszenz-Diode) ist ein Halbleiter-Bauelement, das Licht ausstrahlt, wenn elektrischer Strom in Durchlassrichtung fließt. In Gegenrichtung sperrt die LED den Strom. Somit entsprechen die elektrischen Eigenschaften der LED denjenigen einer Diode. Die Wellenlänge des emittierten Lichts hängt vom Halbleitermaterial und der Dotierung der Diode ab: Das Licht kann für das menschliche Auge sichtbar oder im Bereich von Infrarot- oder Ultraviolettstrahlung sein.
+
+In den ersten drei Jahrzehnten seit ihrer Markteinführung 1962 diente die LED zunächst als Leuchtanzeige und zur Signalübertragung. Durch technologische Verbesserungen wurde die Lichtausbeute immer größer, es wurden blaue und auf deren Basis auch weiße LEDs entwickelt, und Mitte der 2000er Jahre kamen LED-Leuchtmittel auf den Markt. Diese sind heute weit verbreitet und haben andere Leuchtmittel im Alltagsgebrauch zu einem großen Teil verdrängt.
+
+Die LED als Halbleiter[Bearbeiten | Quelltext bearbeiten]
+Aufbau[Bearbeiten | Quelltext bearbeiten]
+￼
+Innerer Reflektor einer Leuchtdiode
+￼
+Leuchtdiode in SMD-Bauweise
+￼
+Verschiedene Leuchtdioden
+Der Halbleiterkristall vieler Leuchtdioden ist auf den Boden einer kegelförmigen Vertiefung in einem Metallhalter gelötet. Die Innenseiten der Vertiefung wirken als Reflektor für das aus den Seiten des Kristalls austretende Licht. Die Lötstelle bildet einen der beiden elektrischen Anschlüsse des Kristalls. Gleichzeitig nimmt sie die Abwärme auf, die entsteht, weil der Halbleiterkristall nur einen Teil der elektrischen Leistung in Licht umsetzt. Der Halter mit dem Reflektor ist bei bedrahteten Leuchtdioden als Draht mit rechteckigem Querschnitt ausgeführt, der als elektrischer Anschluss dient. Anders als sonst bei Elektronikbauteilen üblich, bestehen die Anschlüsse nicht aus Kupfer, sondern aus verzinntem Eisendraht. Die Wärmeleitfähigkeit von Eisen ist vergleichsweise gering. Dadurch wird der Halbleiterkristall beim Einlöten des Bauteils in eine Leiterplatte nicht durch Überhitzung zerstört.
+
+Die Oberseite des Kristalls ist nur durch einen sehr dünnen Bonddraht elektrisch mit dem zweiten Anschluss verbunden, damit die Zuführung nur sehr wenig der lichtemittierenden Oberfläche verdeckt.
+
+Die Kathode (−) ist durch eine Abflachung am Bund des Gehäusesockels markiert. Bei fabrikneuen Leuchtdioden ist zudem der Anschluss der Kathode kürzer. Merkregel: Kathode = kurz = Kante. Bei den meisten Leuchtdioden ist der Reflektor die Kathode. In seltenen Fällen ist der Aufbau umgekehrt. Bezüglich des Schaltzeichens (s. u.) gilt die Merkregel, dass die technische Stromrichtung von dem Pfeil, den die Anode (+) durch ihre Form bildet, „angezeigt“ wird.
+
+Hochleistungs-Leuchtdioden (H-LED) werden mit höheren Strömen als 20 Milliampere (mA) betrieben. Es entstehen besondere Anforderungen an die Wärmeableitung, die sich in speziellen Bauformen ausdrücken. Die Wärme kann über die Stromzuleitungen, die Reflektorwanne oder durch Wärmeleiter, die in den Leuchtdiodenkörper eingearbeitet sind, abgeführt werden. Die meisten H-LEDs von 1 Watt aufwärts sind für die Montage auf Kühlkörper vorbereitet.[1] Eine hohe Temperatur führt bei LEDs (anders als bei Glühlampen) zur Absenkung des Wirkungsgrads, außerdem wird die zu erwartende Lebensdauer verkürzt.
+
+￼
+Zwei COB-LEDs mit 20 (links) und 10 W elektrischer Leistung (rechts); die LEDs befinden sich unter der gelben Leuchtstoff enthaltenden Harzmasse
+Eine weitere Möglichkeit ist das direkte Drahtbonden des Leuchtdioden-Chips auf der Platine (chip on board – COB) und der spätere Verguss mit Silikon. Im Fachhandel werden diese Leuchtmittel „COB-LED“ genannt.
+
+Mehrfarbige Leuchtdioden bestehen aus mehreren (2–4) Dioden in einem Gehäuse. Meist haben sie eine gemeinsame Anode oder Kathode und einen Anschluss für jede Farbe. Bei einer Ausführung mit zwei Anschlüssen sind zwei Leuchtdioden-Chips antiparallel geschaltet. Je nach Polarität leuchtet die eine oder die andere Diode. Eine quasi stufenlose Farbveränderung kann man über ein variables Pulsbreitenverhältnis eines geeigneten Wechselstroms realisieren.
+
+Funktionsprinzip[Bearbeiten | Quelltext bearbeiten]
+Der prinzipielle Aufbau einer Leuchtdiode entspricht dem einer pn-Halbleiterdiode; Leuchtdioden besitzen daher die gleichen Grundeigenschaften. Ein großer Unterschied besteht in dem verwendeten Halbleitermaterial. Während nichtleuchtende Dioden aus Silizium, seltener aus Germanium oder Selen hergestellt werden, ist das Ausgangsmaterial für Leuchtdioden ein direkter Halbleiter, meist eine Galliumverbindung als III-V-Verbindungshalbleiter.
+
+Wird an eine Halbleiterdiode eine Spannung in Durchlassrichtung angelegt, wandern Elektronen von der n-dotierten Seite zum p-n-Übergang. Nach Übergang zur p-dotierten Seite geht das Elektron dann in das energetisch günstigere Valenzband über. Dieser Übergang wird Rekombination genannt, denn er kann auch als Zusammentreffen von einem Elektron im Leitungsband mit einem Defektelektron (Loch) interpretiert werden. Die bei der Rekombination frei werdende Energie wird in einem direkten Halbleiter meist direkt als Licht (Photon) abgegeben.
+
+Neben der direkten strahlenden Rekombination ist auch die Beteiligung von Exzitonen und Phononen möglich, was zu etwas weniger energiereicher Strahlung führt (die Farbe des abgestrahlten Lichts wird ins Rötliche verschoben). Dieser Mechanismus spielt insbesondere bei exzitonischer Emission in grünen Galliumphosphid-Leuchtdioden eine Rolle.
+
+Spezielle Varianten, die nicht direkt zu den Leuchtdioden gezählt werden, aber auf ähnlichen Wirkprinzipien beruhen, sind die Laserdiode, die Resonant-cavity light emitting diode (RCLED bzw. RC-LED) sowie die organische Leuchtdiode (OLED).
+
+Materialwahl – indirekte und direkte Halbleiter[Bearbeiten | Quelltext bearbeiten]
+￼
+Bandstrukturen von
+links: direkter Halbleiter (z. B. Galliumarsenid),
+rechts: indirekter Halbleiter (z. B. Silizium)
+Die Bandstruktur des Halbleiters bestimmt unter anderem das Verhalten der Energieübertragung beim Übergang eines Elektrons vom Leitungsband in das Valenzband und andersherum. In der Grafik rechts sind zwei vereinfachte Bandstrukturdiagramme dargestellt. Dabei ist der Verlauf des Leitungs- und des Valenzbandes über den Wellenvektor 
+�
+→￼ aufgetragen, anschaulich vergleichbar einer reziproken Ortskoordinate, der den nötigen Impulsübertrag charakterisiert. Dargestellt sind die beiden Grundformen von Halbleitern bzw. Bandübergängen: Links ein strahlender Übergang eines direkten Halbleiters und rechts ein Übergang eines indirekten Halbleiters.
+
+Bei indirekten Halbleitern wie Silizium erfordert der Wechsel der Elektronen vom Leitungsbandminimum in das Valenzbandmaximum einen zusätzlichen Impulsübertrag 
+�
+→￼, um die Impulserhaltung zu gewährleisten. Der Impulsübertrag erfolgt z. B. durch die Emission oder Absorption eines Phonons (Gitterschwingung). Die Bedingung, dass ein zusätzliches Quasiteilchen an dem Übergang beteiligt sein muss, reduziert seine Wahrscheinlichkeit. Indirekte Halbleiter sind daher als Leuchtdiode nicht geeignet. Es dominieren nicht-strahlende Übergänge wie die Rekombination über Störstellen (Shockley-Read-Hall-Rekombination). Entsprechend leuchtet zum Beispiel eine normale Gleichrichterdiode nicht.
+
+Im Gegensatz dazu stehen die direkten Halbleiter, sie zeichnen sich durch einen „direkten Bandübergang“ aus, was bedeutet, dass die Elektronen am unteren Rand des Leitungsbandes (Leitungsbandminimum) und am oberen Ende des Valenzbandes (Valenzbandmaximum) denselben Impuls haben. Damit ist ein direkter Übergang des Elektrons unter Aussendung eines Photons (Licht) möglich, ohne dass ein Phonon zur Impulserhaltung beteiligt sein muss. Die Quantenausbeute des direkten Halbleiters Galliumarsenid liegt bei ca. 0,5, beim indirekten Halbleiter Silizium nur bei etwa 1·10−5.
+
+Die Energie des emittierten Photons ist gleich der Energie der Bandlücke, also dem energetischen Abstand zwischen Leitungs- und Valenzband.
+
+�
+(
+�
+D
+)
+=
+ℎ
+⋅
+�
+�
+D
+m
+i
+t
+�
+D
+=
+�
+″
+−
+�
+′
+￼
+als Zahlenwertgleichung:
+
+�
+(
+�
+D
+)
+=
+1240
+n
+m
+e
+V
+�
+D
+￼
+λ(WD): Wellenlänge des emittierten Lichtes. (Für die Zahlenwertgleichung in nm, wenn 
+�
+D
+￼ in eV eingesetzt wird.)
+h: Plancksches Wirkungsquantum = 6,626 · 10−34 Js = 4,13567 · 10−15 eVs
+c: Lichtgeschwindigkeit = 2,99792458 · 108 ms−1
+WD: Arbeit, hier: Bandlücke (Für Zahlenwertgleichung angegeben in Elektronenvolt), abhängig vom verwendeten Halbleiterwerkstoff.
+￼
+Zusammenhang von LED-Leuchtfarbe und theoretisch minimal möglicher Durchlassspannung
+Die Größe der Bandlücke, also der Energielücke 
+�
+″
+−
+�
+′
+￼, bestimmt die Energie, das heißt die Frequenz, Wellenlänge bzw. Farbe des ausgesandten Lichtes. Sie lässt sich über die chemische Zusammensetzung des Halbleiters steuern. So verändert der Austausch von Atomen im Kristallgitter den kristallinen/molekularen Aufbau des Materials, u. a. seine Gitterparameter oder sogar seine Gitterstruktur. Beispielsweise hat der Halbleiter Galliumarsenid einen direkten Bandabstand von 1,4 eV, entsprechend einer Wellenlänge von 885 nm, das heißt im Bereich des nahen Infrarot. Die Zugabe von Phosphor vergrößert den Bandabstand, was das ausgesandte Licht energiereicher macht, wobei die Wellenlänge abnimmt und die Farbe von Infrarot zu Rot und Gelb übergeht. Durch die Zunahme von Phosphor im Kristall verformt sich jedoch auch das Leitungsband. Wenn Phosphor 50 Prozent der Arsen-Atome ersetzt, liegt der Bandabstand zwar bei fast zwei Elektronenvolt, was einer Strahlung von 650 nm (Rot) entspricht, dafür hat sich die Bandstruktur so verschoben, dass keine direkten Strahlungsübergänge mehr beobachtet werden. Die Energie der Bandlücke spiegelt sich auch in der Höhe der Durchlassspannung der Diode wider, wie im Diagramm rechts gezeigt. Bei langwelligem Licht liegt sie bei ca. 1,5 V, bei blauem Licht bei 3 V, während Siliziumdioden kleinere Werte von ca. 0,6 V aufweisen.
+
+Farben und Technologie[Bearbeiten | Quelltext bearbeiten]
+￼
+Blaue LED aus InGaN
+Die Farbe einer Leuchtdiode hängt wesentlich vom Bandabstand des eingesetzten Halbleitermaterials ab. Der Bandabstand kann im Rahmen der Herstellung über die Zusammensetzung des Halbleiters in gewissen Grenzen variiert werden. Die Farbe einer Leuchtdiode entspricht direkt einer bestimmten Wellenlänge λ, d. h. dem Kehrwert der Frequenz der emittierten elektromagnetischen Strahlung, multipliziert mit der Ausbreitungsgeschwindigkeit. Beispiele von häufig verwendeten Materialien sind:
+
+Aluminiumgalliumarsenid (AlGaAs) – infrarot bis 1000 nm Wellenlänge, rot (665 nm)
+Galliumarsenidphosphid (GaAsP) und Aluminiumindiumgalliumphosphid (AlInGaP) – rot, orange und gelb
+Galliumphosphid (GaP) – (gelb-)grün
+Indiumgalliumnitrid (InGaN)/Galliumnitrid (GaN) – ultraviolett, violett, blau und grün (true green)
+Weiße LEDs sind meistens auf Indiumgalliumnitrid basierende blaue LEDs mit einem Überzug aus einer gelblichen Lumineszenzschicht, die als Wellenlängen-Konverter wirkt. Sie werden vielfach für LED-Leuchtmittel eingesetzt. Ähnlich, aber mit veränderter Lumineszenzschicht, sind LEDs in Pastelltönen aufgebaut.
+
+Selten verwendete Werkstoffe für Leuchtdioden sind unter anderem:
+
+Siliziumkarbid (SiC) – erste kommerzielle blaue LED; kaum noch in praktischem Einsatz, da nur geringe Effizienz
+Zinkselenid (ZnSe) – blauer Emitter, der jedoch nie kommerzielle Reife erreichte
+Zur Herstellung blauer und grüner LEDs können mit dem Atomlagenepitaxie-Verfahren aus Magnesocen dünne Schichten Magnesium-dotierter Nitrid-Filme von Metallen der 3. Hauptgruppe (überwiegend Gallium) aufgebracht werden.[2]
+
+￼
+Spektren einer roten, grünen, blauen und weißen Leuchtdiode
+Materialsysteme von LEDs verschiedener Wellenlängen
+Farbe	Wellenlänge λ	Werkstoff
+﻿Infrarot
+2500 nm < λ < 5000 nm	InAs/AlSb-Heterostruktur[3]
+﻿Infrarot
+1400 nm < λ < 1600 nm	Indiumphosphid (InP)
+﻿Infrarot
+760 nm < λ	Galliumarsenid (GaAs)
+Aluminiumgalliumarsenid (AlGaAs)
+﻿Rot
+610 nm < λ < 760 nm	Aluminiumgalliumarsenid (AlGaAs)
+Galliumarsenidphosphid (GaAsP)
+Aluminiumgalliumindiumphosphid (AlGaInP)
+Galliumphosphid (GaP)
+﻿Orange
+590 nm < λ < 610 nm	Galliumarsenidphosphid (GaAsP)
+Aluminiumgalliumindiumphosphid (AlGaInP)
+Galliumphosphid (GaP)
+﻿Gelb
+570 nm < λ < 590 nm	Galliumarsenidphosphid (GaAsP)
+Aluminiumgalliumindiumphosphid (AlGaInP)
+Galliumphosphid (GaP)
+﻿Grün
+500 nm < λ < 570 nm	Indiumgalliumnitrid (InGaN) / Galliumnitrid (GaN)
+Galliumphosphid (GaP)
+Aluminiumgalliumindiumphosphid (AlGaInP)
+Aluminiumgalliumphosphid (AlGaP)
+Zinkoxid (ZnO), in Entwicklung
+﻿Blau
+450 nm < λ < 500 nm	Zinkselenid (ZnSe)
+Indiumgalliumnitrid (InGaN)
+Siliziumkarbid (SiC)
+Silizium (Si) als Träger, in Entwicklung
+Zinkoxid (ZnO), in Entwicklung
+﻿Violett
+400 nm < λ < 450 nm	Indiumgalliumnitrid (InGaN)
+﻿Ultraviolett
+230 nm < λ < 400 nm	Aluminiumnitrid (AlN)
+Aluminiumgalliumnitrid (AlGaN)
+Aluminiumgalliumindiumnitrid (AlGaInN)[4]
+Diamant (C)
+Experimentell: Hexagonales Bornitrid (BN)[5]
+Weiße LED [Bearbeiten | Quelltext bearbeiten]
+
+￼
+Nahaufnahme einer RGB-Leuchtdiode (Durchmesser ca. 5 mm) mit den drei einzelnen LED-Chips
+Da Leuchtdioden grundsätzlich nur monochromatisches Licht erzeugen, kommen verschiedene Verfahren zur additiven Farbmischung zum Einsatz, um weißes Licht zu erzeugen.
+
+Kombination verschiedenfarbiger LEDs und Leuchtstoffe[Bearbeiten | Quelltext bearbeiten]
+Rote, grüne, blaue Leuchtdioden, sogenannte RGB-LEDs, abgeleitet von dem Begriff des RGB-Farbraumes, werden in einem LED-Gehäuse miteinander so kombiniert, dass sich ihr Licht gut mischt und damit bei entsprechender Ansteuerung der einzelnen Leuchtdioden von außen als weiß erscheint. Zur besseren Lichtmischung sind meist zusätzliche optische Komponenten wie ein Diffusor erforderlich. Bei dieser Kombination von Leuchtdioden ist durch eine entsprechende Ansteuerung der einzelnen Leuchtdioden auch andersfarbiges Licht herstellbar, selbst fließende Farbübergänge sind möglich.
+
+Selten wird eine Ultraviolette-LED (UV-LED) mit mehreren verschiedenen Leuchtstoffen in rot, grün und blau kombiniert, was eine gute Farbwiedergabe bis über Ra = 90 erlaubt. Dabei werden drei relative schmale Peaks im Spektrum erzeugt, was für Licht in drei engen Frequenzbändern steht. Unterschiedliche Leuchtstoff-Schichtdicken führen allerdings insbesondere am Rand zu einer inhomogenen, von der Abstrahlrichtung abhängigen Lichtfarbe; auch kann die Farbtemperatur oder Farbe nicht wie bei RGB-LEDs im Betrieb geändert werden.
+
+Lumineszenz[Bearbeiten | Quelltext bearbeiten]
+￼
+Erzeugen weißen Lichtes mit einer blauen Leuchtdiode und einem breitbandigen Lumineszenzfarbstoff. Übliches Verfahren bei weißen LEDs.
+￼
+Schematische Darstellung, wie mit einer blauen LED mit darüber liegendem gelbem Leuchtstoff weißes Licht erzeugt wird
+Eine blaue oder ultraviolette LED wird mit photolumineszierendem Farbstoff, auch als Leuchtstoff bezeichnet, kombiniert.[6] Ähnlich wie auch in Leuchtstoffröhren wird dadurch das kurzwellige Licht der blauen oder ultravioletten LED in langwelligeres Licht umgewandelt. Die Wahl der Leuchtstoffe kann variieren und legt die Farbtemperatur fest.
+
+Beim gängigsten Herstellungsverfahren für weiße LEDs wird Galliumnitrid epitaktisch, meist mittels metallorganischer Gasphasenepitaxie (MOVPE), auf einen Träger (Substrat) aus Saphir aufgebracht. So entsteht die erste Schicht des GaN-Halbleiterkristalls. Die lichtemittierende Schicht besteht in der Regel aus InGaN, deren blaues Licht vom Leuchtstoff teilweise in längerwelliges Licht umgewandelt wird. In einem neuen Verfahren,[7] dessen wesentliche Grundlagen im Jahr 2000 an der Otto-von-Guericke-Universität Magdeburg entwickelt wurden, wird das teure Saphirsubstrat durch Silizium ersetzt.[Firma 1] Auf das Silizium lässt man dann nach einer ersten AlN-Schicht das Galliumnitrid aufwachsen. Effizient sind solche LEDs jedoch nur, wenn das lichtabsorbierende Siliziumsubstrat entfernt und durch eine hochreflektierende Schicht, meist auf Silberbasis, ersetzt wird, wie es für Hochleistungs-LEDs auf Saphirsubstraten inzwischen der Fall ist. Durch dieses Verfahren können die wesentlich günstigeren und großflächigen Siliziumscheiben zur LED-Herstellung verwendet werden, und der Ablöseprozess vom Substrat wird stark vereinfacht.
+
+Die Art der Leuchtstoffbeschichtung ist dabei für die Qualität entscheidend. Wie man anhand der Grafik erkennen kann, erzeugt die im Mittel gelblich leuchtende Lumineszenzschicht ein sehr breitbandiges Licht, was zu einem ausgeglichenen Spektrum führt. Andererseits ist die Überlappung mit den Spektren der meisten roten Farbstoffe nur schlecht, was die Farbwiedergabe beeinträchtigt und beispielsweise in Farb-LCDs, die mit solchen weißen LEDs hinterleuchtet sind, zu einer schlechten Rotwiedergabe führt.
+
+Farbeindruck weißer LEDs[Bearbeiten | Quelltext bearbeiten]
+￼
+Farbverlauf der in Kelvin (K) angegebenen Farbtemperaturen von LED-Leuchtmitteln
+Das Maß für die quantitative Beschreibung des Farbeindrucks weißer LEDs ist die Farbtemperatur. Sie wird in Kelvin (K) angegeben.
+
+Eigenschaften[Bearbeiten | Quelltext bearbeiten]
+Spektrale Charakteristik[Bearbeiten | Quelltext bearbeiten]
+Anders als Glühlampen sind Leuchtdioden keine Wärmestrahler. Bunte (nicht-weiße) Leuchtdioden emittieren Licht in einem begrenzten Spektralbereich; das Licht ist nahezu monochromatisch. Deshalb sind sie beim Einsatz als Signallicht besonders effizient im Vergleich zu anderen Lichtquellen, bei denen zur Erzielung einer monochromen Farbcharakteristik Farbfilter den größten Teil des Spektrums absorbieren müssen. Für die Verwendung von Leuchtdioden für allgemeine Beleuchtungszwecke werden meist blaue Leuchtdioden mit Leuchtstoffen kombiniert. Sie besitzen neben dem breiten Spektrum des Leuchtstoffes einen schmalbandigeren blauen Lichtanteil.
+
+Bis Anfang der 1990er-Jahre konnten Leuchtdioden nicht für alle Farben des sichtbaren Spektrums in hinreichender Qualität hergestellt werden, insbesondere blaue Leuchtdioden waren nicht verfügbar. Auch der Einsatz grüner Leuchtdioden war für Verkehrsampeln wegen der geforderten blaugrünen Lichtfarbe nicht möglich. Die Entwicklung erster blaugrüner Leuchtdioden geht auf Arbeiten von Isamu Akasaki im Jahr 1989 auf Basis des Werkstoffes Galliumnitrid zurück, wofür dieser 2014 den Nobelpreis für Physik bekam.[8] Die Massenproduktion blaugrüner und danach blauer Leuchtdioden begann im Jahr 1993.
+
+Elektrische Eigenschaften[Bearbeiten | Quelltext bearbeiten]
+Leuchtdioden besitzen eine exponentiell ansteigende Strom-Spannungs-Kennlinie, die unter anderem auch von der Temperatur abhängt. Der Lichtstrom ist nahezu proportional zum Betriebsstrom.
+
+￼
+Typischer Verlauf des Lichtstromes in Abhängigkeit vom LED-Strom (5-mm-LED cyan)
+Die Flussspannung bzw. die Spannung über der Diode stellt sich durch den Betriebsstrom ein, besitzt Exemplarstreuung und ist temperaturabhängig – sie sinkt mit steigender Temperatur wie bei allen Halbleiterdioden ab. Die Versorgung über eine Konstantstromquelle (häufig angenähert in Form eines Vorwiderstandes) ist daher wichtig für eine definierte Leuchtstärke. Ein direkter Betrieb an einer Spannungsquelle ist sehr riskant, da der Arbeitspunkt über die Spannung für den gewünschten Strom wegen der Exemplarstreuung und der Temperaturabhängigkeit nicht ausreichend genau eingestellt werden kann.
+
+Im Laufe der Entwicklung wurde die Lichtausbeute durch Optimierungen des Halbleitermaterials und der Geometrie von Halbleiterkristall und Gehäuse erhöht. Das ermöglichte es ab etwa den 1990er-Jahren, LEDs mit sehr kleinem Strom zu betreiben (Low-current-LEDs) und dennoch eine sinnvolle Helligkeit zu erzielen. Die maximal zulässige Stromaufnahme von LEDs reicht von 2 mA (beispielsweise bei miniaturisierten SMD-LEDs oder Low-current-LEDs) über 20 mA (Standard-LEDs) bis über 18 A (Stand Juni 2008) bei Hochleistungs-LEDs. Die Flussspannung Uf (für englisch forward voltage) hängt vom Halbleitermaterial ab, das wiederum die Lichtfarbe bestimmt. Anhaltspunkte für den Spannungsabfall sind:
+
+Infrarot-LED: 1,2–1,8 V, typ. 1,3 V
+Rot: 1,6–2,2 V
+Gelb, Grün: 1,9–2,5 V
+Blau, Weiß: 2,7–3,5 V[Firma 2]
+UV-LED: 3,1–4,5 V, typ. 3,7 V[Firma 3]
+Die Flussspannung hängt u. a. von der Stromdichte in der LED und von Serienwiderständen (Bahnwiderstand im Kristall) in der Diode und den Kontaktierungen, Bonddrähten und Anschlüssen ab[9] und nimmt aufgrund dessen bei leistungsfähigeren LEDs zu.
+
+Die maximal zulässige Sperrspannung beträgt in der Regel 5 Volt, darüber wird die LED meist zerstört.
+
+Optische Eigenschaften[Bearbeiten | Quelltext bearbeiten]
+Die Lichtemission des LED-Chips bzw. der Leuchtstoffschicht erfolgt in einem Halbraum, wobei der Chip sich etwa wie ein Lambert-Strahler verhält, wenn nicht weitere Teile zur Lenkung/Bündelung des Lichts eingesetzt werden. Die Verlustwärme wird typisch in den anderen Halbraum abgeführt, etwa durch Wärmeleitung in einen Kühlkörper, auf den die LED montiert ist.[10]
+
+Leuchtdioden werden oft mit Polymeren verkapselt. Bei lichtstarken LEDs kommen auch Glas-, Keramik- oder Metallgehäuse zum Einsatz. Metallgehäuse, meistens aus Aluminium, dienen der Wärmeableitung. Der transparente Polymerkörper hat direkten Kontakt mit dem LED-Chip; dieser ist in der Regel in den Kunststoff eingegossen. Das setzt den Grenzwinkel der Totalreflexion für den Austritt des Lichts aus dem LED-Chip herab und verbessert so den Übergang des Lichts vom Chip in den Polymerkörper. Dieser ist oft wie eine Linse geformt und bündelt das Licht, so dass es innerhalb eines gegebenen Öffnungswinkels austritt.
+
+Dieser Öffnungswinkel ist ein wichtiger Parameter einer LED. Der Raumwinkel 
+Ω￼, in den das Licht abgestrahlt wird, kann aus dem Öffnungswinkel 
+�￼ berechnet werden, und der Lichtstrom 
+Φ￼ und die Lichtstärke 
+�
+￼ der LED hängen über 
+Ω￼ zusammen:
+
+Ω
+=
+2
+�
+(
+1
+−
+cos
+⁡
+(
+�
+/
+2
+)
+)
+￼,
+Φ
+=
+�
+⋅
+Ω￼.
+In der Praxis gilt letztere Gleichung jedoch nur angenähert, da das Licht meist nicht ausschließlich innerhalb des Öffnungswinkels und in diesem auch nicht völlig gleichmäßig (d. h. mit konstanter Lichtstärke) abgegeben wird.
+
+Leuchtdioden mit einer Linse, die zur Erzielung großer Öffnungswinkel ausgelegt ist, werden auch als Straw-Hat-LEDs bezeichnet. Mitunter nutzt man auch eine konkave kegelförmige Frontfläche, an der das Licht total reflektiert wird und dann durch die zylinderförmige Seitenwand des Gehäuses austritt.
+
+Lichtstärke[Bearbeiten | Quelltext bearbeiten]
+Die Lichtstärke von LEDs wird in der Einheit Candela (cd) oder Teilen davon angegeben. Die Lichtstärke berücksichtigt, im Unterschied zum Lichtstrom, auch die Abstrahl-Charakteristik in Form des Raumwinkels.[11] Typische Werte sind:
+
+0,02 cd bis 0,05 cd für klassische LEDs für Signalanwendungen wie in Schaltpulten etc.
+bis 0,8 cd haben neuere sogenannte „superhelle“-LEDs, die damit auch für helle oder Tageslicht-Umgebungen geeignet sind
+bis 10 cd haben LED-Module zu Beleuchtungs-Zwecken, diese sind aus mehreren LED-Chips zusammengesetzt.
+Darüber hinaus können wie bei allen Lampen mehrere LEDs kombiniert werden, um beliebige Lichtstärken zu erreichen.
+
+Lebensdauer in Einschaltstunden[Bearbeiten | Quelltext bearbeiten]
+Als Lebensdauer (Licht-Degradation) einer LED wird die Zeit bezeichnet, nach der ihr Lichtstrom im Mittel auf 70 % des Anfangswertes abgesunken ist (L70B50-Wert);[Firma 4][Firma 5] einige Internet-Quellen sprechen auch vom Ende der Lebensdauer bei 80 % oder 50 % des anfänglichen Lichtstroms.
+
+Der Lichtstrom von Leuchtdioden nimmt nach und nach ab, sie fallen aber in der Regel nicht plötzlich aus.[12] Die Alterung ist annähernd linear. Die Lebensdauer hängt vom jeweiligen Halbleitermaterial, den Betriebsbedingungen (Temperatur, Strom) und der individuell tolerierbaren Farbtemperaturveränderung der Fluoreszenzfarbstoffe ab (weiße LEDs werden blaustichiger). Hohe Temperaturen (gewöhnlich durch hohe Ströme) verkürzen die Lebensdauer der LEDs drastisch. Mit optimal aufeinander abgestimmten Komponenten können Lebensdauern von 50.000 Stunden und mehr erreicht werden.[13]
+
+Die Alterung von LEDs ist in erster Linie auf die Vergrößerung der Fehlstellen im Kristall durch thermische Einflüsse zurückzuführen. Diese Bereiche nehmen nicht mehr an der Lichterzeugung teil. Es entstehen strahlungslose Übergänge. Bei GaN-LEDs im Blau- und Ultraviolett-Bereich ist auch eine Alterung der Kunststoffgehäuse durch das kurzwellige Licht mit einhergehender Trübung feststellbar.
+
+Anwendungen und Einsatzbereiche[Bearbeiten | Quelltext bearbeiten]
+￼	
+Dieser Artikel oder nachfolgende Abschnitt ist nicht hinreichend mit Belegen (beispielsweise Einzelnachweisen) ausgestattet. Angaben ohne ausreichenden Beleg könnten demnächst entfernt werden. Bitte hilf Wikipedia, indem du die Angaben recherchierst und gute Belege einfügst.
+Eine weitgehend zufällig erscheinende und lückenhafte Aufzählung von Anwendungen mit seltsamen, veralteten Gewichtungen -- Smial (Diskussion) 13:56, 29. Apr. 2020 (CEST)
+￼
+Leuchtdioden unterschiedlicher Farbe, Form und Leistung
+Der Anwendungsbereich der LEDs umfasste zunächst in den 1970er- und 1980er-Jahren aufgrund geringer Lichtausbeute und fehlender Verfügbarkeit aller Farben hauptsächlich Anzeigeelemente wie beispielsweise Statusanzeigen mit den Farben rot, orange, gelb und gelb-grün. Sie ersetzten dabei kleinere Glühlampen oder Glimmlampen. Dieser Anwendungsbereich umfasst auch Anzeigen wie beispielsweise Siebensegmentanzeigen oder Matrixanzeigen, in welchem sie spezielle Elektronenröhren, wie die Fluoreszenzanzeige und deren Vorgänger, die Nixie-Röhre, ablöste.
+
+Seit Beginn der LED ergaben sich auch Anwendungen zur Signalübertragung, wo die Leuchtdiode in ihrer Funktion nicht unbedingt für den Benutzer optisch sichtbar ist und wo Leuchtdioden bis heute dominierend sind. Beispiele sind infrarote LEDs in Infrarotfernsteuerungen, in Lichtschranken oder in Optokopplern zur galvanischen Trennung elektrischer Stromkreise.
+
+￼
+LED-Straßenlaterne in Charente, Frankreich
+Mit der Marktverfügbarkeit von leistungsfähigen und kostengünstigen blauen (und damit auch weißen) Leuchtdioden seit den 2000er-Jahren etablieren sich LEDs in nahezu allen Anwendungen der Beleuchtung. Neben der Raumbeleuchtung oder Straßenbeleuchtung werden LEDs auch in Taschenlampen, LED-Scheinwerfern sowie bei Flutlichtanlagen und bei der Effektbeleuchtung eingesetzt, z. B. in beleuchteten Möbeln, Vitrinen, Rahmen oder auch bei Bekleidungsstücken, bei denen schmale und teilweise versteckte LED-Streifen für eine angenehme indirekte Beleuchtung und Raumatmosphäre sorgen sollen. Es gibt heute eine Vielfalt von LED-Leuchtmitteln, darunter auch LED-Leuchtfaden-Lampen, die einerseits das Aussehen von traditionellen Kohlefaden-Glühlampen imitieren, während lichtstärkere Typen dem Erscheinungsbild der Glühlampe mit Wolframglühfaden ähneln.
+
+Gleichzeitig mit der Verfügbarkeit leistungsfähiger Leuchtdioden für Beleuchtungszwecke kamen auch Signalisierungen mit höherer Lichtausbeute hinzu, wie bei Verkehrsampeln, als Rücklicht und als Kennleuchten auf Fahrzeugen. Im Jahr 2011 wurde erstmals in Europa ein Flughafenvorfeld mit LEDs beleuchtet: In Innsbruck leuchtet ein System mit 14 hohen Masten eine Fläche von 49.000 m² aus.[14]
+
+Ein weiterer Anwendungsbereich von LEDs ist die Hintergrundbeleuchtung von Flüssigkristallbildschirmen, da LEDs eine langzeitstabilere Beleuchtung und zum Teil einen niedrigeren Strombedarf als Kaltkathodenlampen aufweisen. Außerdem lassen sich so sehr geringe Bautiefen realisieren. Entsprechende LCD-Fernseher werden umgangssprachlich häufig als LED-Fernseher bezeichnet.
+
+Daneben existieren noch spezielle Einsatzbereiche, welche die spektralen Eigenschaften der eingesetzten Leuchtdioden ausnutzen. Beispiele sind die Medizintechnik, wo unter anderem ultraviolette LEDs zum Polymerisieren von Kunststoffen in der Zahntechnik, rote und infrarote LEDs zur Messung der Sauerstoffsättigung in Pulsoximetern verwendet werden, oder in der Licht-Hauttherapie – auch als LED-Photorejuvenation bekannt.
+
+Siehe auch: LED-Show
+LED-Entwicklung[Bearbeiten | Quelltext bearbeiten]
+Geschichte[Bearbeiten | Quelltext bearbeiten]
+￼
+Nachbildung des Experiments H. J. Rounds. Eine negativ geladene Nadelspitze auf Siliziumkarbid erzeugt einen grün glimmenden Leuchtdiodenübergang.
+￼
+Entwicklung des maximalen Lichtstroms (rot) kommerziell erhältlicher LEDs. Die Skala ist logarithmisch und die Gerade entspricht daher einem exponentiellen Anstieg.
+Henry Joseph Round (1881–1966) beobachtete 1907 erstmals, dass anorganische Stoffe unter dem Einfluss einer angelegten Spannung zu einer Lichtemission fähig sind.[15] 1921 entdeckte der russische Physiker Oleg Lossew den Round-Effekt erneut und untersuchte ihn 1927 bis 1942 genauer, da er vermutete, dass das Phänomen als Umkehrung des Einsteinschen photoelektrischen Effektes zu deuten sei.[16][17] Georges Destriau entdeckte 1935 an Zinksulfid ein ähnliches Leuchtphänomen und bezeichnete es nach dem russischen Physiker als Lossew-Licht.
+
+1951 konnte durch die Entwicklung des Bipolartransistors ein wissenschaftlicher Fortschritt in der Halbleiterphysik erreicht werden. Seitdem war es möglich, den Prozess der Lichtemission aufzuklären. Zunächst wurde weiter mit Zinksulfid experimentiert; erfolgreicher waren aber die Forschungen an den als Halbleiter erkannten III-V-Verbindungshalbleitern. Ab 1957 konzentrierte man sich bei der Erforschung der Lichterzeugung ganz auf Halbleiter. Besonders die Lichtemission im sichtbaren Bereich auf der Basis von Galliumarsenid (GaAs) und Galliumphosphid (GaP) war von Bedeutung.
+
+Einige Quellen schreiben die Erfindung der Leuchtdiode Nick Holonyak zu und datieren sie auf 1962.[18]
+
+1968 nahm das amerikanische Chemieunternehmen Monsanto als erstes die Massenproduktion von (roten) LEDs auf Basis von Galliumarsenidphosphid auf und trieb in den folgenden Jahren die Entwicklung weiter voran. Die Serienproduktion der diskreten LED und der Siebensegmentanzeige ermöglichte damals erste Taschenrechner und digitale Armbanduhren.[19]
+
+Seit den ersten LEDs 1962 wurde die Lichtausbeute von unter 0,1 lm/W auf über 100 lm/W gesteigert. Diese überwiegend in großen Sprüngen gemachten Entwicklungsschritte beruhen außer auf der immer besseren Qualität der Halbleiterschichten (geringere Defektdichten, weniger Verunreinigungen) auf dem Einsatz von Halbleiterheterostrukturen, niederdimensionalen Strukturen (Quantenfilmen, Quantenpunkten), transparenten Substraten und der verbesserten Lichtauskopplung. Ausgehend von GaAs/AlAs (1960er-Jahre, Rot-Gelb) wurden neue Halbleitermaterialien wie GaP (1970er-Jahre, grüne LEDs) und GaN (1980er-/1990er-Jahre, Grün bis UV) entwickelt, sodass es heute, bis auf eine Lücke im Grün-Gelb-Bereich, LEDs in allen Farben des Spektrums gibt.
+
+Nach Halbleitermaterialien, die Licht im kurzwelligen Bereich (Blau, UV) effizient erzeugen, wurde lange gesucht. Hauptproblem war das Dotieren eines p-leitenden Bereichs geeigneter breitlückiger Halbleiter, das erstmals 1988 bei GaN der Gruppe um Isamu Akasaki in Japan gelang, dann 1992 auch Shuji Nakamura mit einem anderen Ansatz. Dieser führte zur ersten kommerziellen blauen LED auf GaN-Basis, die, inzwischen erweitert um weiße und grüne LEDs sowie blaue Laserdioden, seit 1993 von Nichia vertrieben werden. Bis dahin basierten blaue LEDs auf dem Material Siliziumkarbid, das als indirekter Halbleiter für effiziente Lichtemission schlecht geeignet ist. Isamu Akasaki, Hiroshi Amano und Shuji Nakamura erhielten 2014 den Nobelpreis für Physik für „die Erfindung effizienter blauer Leuchtdioden, mit denen helle und energiesparende weiße Lichtquellen möglich wurden“.[20]
+
+2006 erreichte eine blaue LED von Nichia in Labortests eine Lichtausbeute von 150 lm/W. Das entspricht der Effizienz von Natriumdampflampen, die in verschiedenen Ausführungen seit den 1970er-Jahren verfügbar sind. 2007 gelang es dem Unternehmen Cree im Labor, eine kaltweiße LED mit über 1000 lm bei einer Effizienz von 72 lm/W zu betreiben, die warmweiße Variante kam bei 760 lm immerhin noch auf 52 lm/W Lichtausbeute. 2009 kam eine LED von Nichia auf den Markt mit einer angegebenen Lichtausbeute von 160 lm/W, allerdings nur geringer Leistung. Cree lieferte 2010 erste LEDs aus, die bei 1 W 160 lm/W erreichten und bei 10 W immer noch ca. 100 lm/W.
+
+Im September 2009 begann Cree mit der Auslieferung einer weißen LED mit einer Lichtausbeute (Herstellerangaben) von 132 lm/W, die bei der maximalen Leistungsaufnahme von fast 10 W auf 105 lm/W abfällt, wobei für diesen Produktionstyp Lichtstromwerte bei 350 mA in den Leistungsklassen 114 lm; 122 lm; 130 lm und 139 lm (entspricht 132 lm/W) angeboten werden.[Firma 6] Das Unternehmen berichtete im Februar 2010[Firma 7] über eine Labor-Prototyp-LED, die 208 lm/W bei Raumtemperatur erreichte, bei einer Farbtemperatur von 4579 K. Im Oktober 2011 konnte Osram Prototypen einer roten LED vorstellen, die bei 609 nm und Nennstrom von 350 mA eine Lichtausbeute von 168 lm/W erreicht.[Firma 8]
+
+Beim Vergleich der Lichtstärke unterschiedlicher LEDs ist der Abstrahlwinkel in die Berechnung einzubeziehen.[Firma 9] Übliche Abstrahlwinkel liegen zwischen 24° und 40°.
+
+Die Steigerung der Effizienz und die weitere Senkung der Herstellungskosten stehen primär im Fokus der Weiterentwicklung. Daneben wurde um das Jahr 2015 insbesondere daran gearbeitet, sowohl transparente Träger- und Halbleiter-Materialien, als auch transparente elektrische Zuleitungen herzustellen, da die Bonddrähte (elektrische Leitungen zum Halbleiterchip) einen Teil der leuchtenden Fläche abdecken.
+
+Stand der Technik[Bearbeiten | Quelltext bearbeiten]
+Lichtausbeute[Bearbeiten | Quelltext bearbeiten]
+￼
+Theoretische maximale Lichtausbeute für monochrome Lichtwandler
+Die höchsten Effizienzangaben weißer LEDs geben 2014 eine Lichtausbeute von 303 lm/W,[Firma 10] im Jahre 2010 waren es 250 lm/W.[21] Das theoretische Maximum liegt jedoch bei ca. 350 lm/W, wenn weißes Licht mit 6600 K Farbtemperatur mit einem physikalischen Wirkungsgrad von 100 % erzeugt wird. Daher sind hohe Effizienz-Angaben in Pressemitteilungen der Herstellerfirmen nicht vertrauenswürdig. Im Jahre 2020 kommerziell angebotene weiße LED-Emitter mit einem Farbwiedergabeindex von 70 erreichen eine Lichtausbeute von etwa 122 bis 166 Lumen pro Watt, gemessen im Impulsbetrieb mit 7 % max. Fehler bei einer Chiptemperatur von 85 °C.[22]
+
+Da durch die Messung in der Einheit Lumen die Eigenschaften des menschlichen Auges berücksichtigt werden (vgl. Hellempfindlichkeitskurve), erreichen LEDs in den Farben Grün bis Gelb besonders hohe Effizienzwerte, während beispielsweise blaue LEDs deutlich schlechter abschneiden. Im rein physikalischen Wirkungsgrad, der die Umwandlung elektrischer Energie in Lichtenergie angibt, sind blaue LEDs in der Regel besser. Daher gehen ein schlechter Farbwiedergabeindex und eine hohe Farbtemperatur mit hoher Lichtausbeute einher. Derzeit sind physikalische Wirkungsgrade bis etwa 85 % erreichbar, bezogen auf die eigentliche LED, ohne Verluste durch Vorschaltgeräte und gegebenenfalls Optik. Neben solchen Laborwerten sind heute LEDs mit 200 lm/W im Betrieb.
+
+Massenfertigung[Bearbeiten | Quelltext bearbeiten]
+Der Wirkungsgrad einer massengefertigten LED unterliegt einer gewissen Streuung. So wurden bereits vor Jahren einzelne LED-Labormuster mit hohem Wirkungsgrad im Labor hergestellt und bald darauf als Massenprodukt angekündigt. Mit dem sogenannten „Fluxbinning“ werden aus einer Produktion mehrere Klassen verschiedener Lichtströme selektiert und mit jeweils unterschiedlichen Preisen angeboten.
+
+Betrieb und Anschluss[Bearbeiten | Quelltext bearbeiten]
+￼
+Schaltzeichen einer Leuchtdiode und Polarität der zum Stromfluss führenden Spannung (Durchlassrichtung)
+Bei konstanter Halbleitertemperatur ist der Lichtstrom einer Leuchtdiode annähernd proportional zum durch sie fließenden Strom. Der Wirkungsgrad sinkt mit steigender Temperatur, u. a. deshalb sinkt die Lichtausbeute an der Leistungsgrenze je nach Art der Kühlung ab. Weiterhin führt der Bahnwiderstand (Halbleiterkristall, Bonddraht) dazu, dass LED bei ihrer spezifizierten Nennleistung weniger effizient als bei geringeren Strömen sind. Die LED altert beschleunigt bis hin zum Spontanausfall, wenn die Temperatur des Halbleiters circa 150 °C für längere Zeit übersteigt.
+
+Eine Leuchtdiode besitzt wie andere Halbleiterdioden eine exponentielle Strom-Spannungs-Kennlinie. Kleine Schwankungen in der Spannung verursachen ab der Schwellspannung große Stromänderungen.
+
+￼
+Kennlinie einer weißen LED
+Das Bild rechts zeigt eine typische Strom-Spannungs-Kennlinie einer weißen Leuchtdiode, hier mit einem Nennstrom von 350 mA. Diesen Strom kann sie unter Normalbedingungen aufnehmen, ohne dass eine Überhitzung zu befürchten ist. Aus ihrer Kennlinie liest man beim Nennstrom eine Flussspannung von etwa 3,4 V ab, entsprechend einer Leistungsaufnahme von etwa 1 W.
+
+Die rote Kurve gilt für eine erhöhte Temperatur (mit steigender Temperatur nehmen Bandabstand und Durchlassspannung ab). Daher kann der Strom auch bei konstant gehaltener Durchlassspannung um mehr als 50 % anwachsen. Eine LED kann daher nicht direkt an einer Spannungsquelle betrieben werden. LED können an einer Stromquelle, einer Konstantstromquelle oder mittels einer Maßnahme zur Strombegrenzung an einer Spannungsquelle angeschlossen werden.
+
+Die Spannung muss mindestens die Höhe der Schwellspannung haben, damit ein nennenswerter Strom fließen kann. Beispielsweise wird eine blaue LED bei Anlegen einer Spannung von 2,4 V (zwei NiMh-Akkus à 1,2 V in Reihe) dunkel bleiben. Drei solcher Akku-Zellen mit zusammen 3,6 V jedoch steigern die Leistungsaufnahme auf über 150 %, die LED fällt nach kurzer Zeit aus.
+
+Im Impulsbetrieb für einige Mikro- bis wenige Millisekunden können LED mit Strömen des Mehrfachen des Dauer-Nennstromes betrieben werden. Vor allem Infrarot-LED sind dafür spezifiziert. Deren typische Anwendung sind Infrarot-Fernbedienungen, bei denen LEDs mit etwa 40 kHz gepulst betrieben werden. Die Modulation der Licht- bzw. Strahlungsleistung ist je nach LED-Typ bis zu mehreren 100 kHz bis einigen 10 MHz möglich.
+
+Betrieb mit Vorwiderstand[Bearbeiten | Quelltext bearbeiten]
+￼
+Bestimmung des Arbeitspunktes bei bekannter Diodenkennlinie
+Die einfachste Möglichkeit der Versorgung einer LED an einer Spannungsquelle ist, in Reihe zu ihr einen Vorwiderstand zu schalten. Der Gesamt-Wirkungsgrad ist prinzipiell nicht schlechter als bei einer linear geregelten Konstantstromquelle. Wird diese Anordnung mit einer Spannungsquelle betrieben, deren Spannung U0 unter Last (Nennstrom I) bekannt ist, so lässt sich die gewünschte Stromstärke ILED über die Wahl des Widerstandes einstellen:
+
+�
+e
+r
+f
+o
+r
+d
+e
+r
+l
+i
+c
+h
+=
+�
+0
+−
+�
+L
+E
+D
+�
+L
+E
+D
+￼
+Beispiel: 
+�
+0
+=
+4
+,
+5
+ 
+V
+,
+ 
+�
+L
+E
+D
+=
+0
+,
+35
+ 
+A
+,
+ 
+�
+L
+E
+D
+=
+3
+,
+4
+ 
+V
+￼
+
+�
+e
+r
+f
+o
+r
+d
+e
+r
+l
+i
+c
+h
+=
+4
+,
+5
+ 
+V
+−
+3
+,
+4
+ 
+V
+0
+,
+35
+ 
+A
+=
+3
+,
+1
+ 
+Ω
+ 
+￼
+Die Verlustleistung und damit die Baugröße des Widerstandes ergibt sich zu
+
+�
+Verlust
+=
+Δ
+�
+⋅
+ 
+�
+L
+E
+D
+=
+1
+,
+1
+ 
+V
+⋅
+0
+,
+35
+ 
+A
+=
+0,385
+ 
+W
+￼
+Der nächsthöhere, handelsübliche Widerstand-Baugröße ist eine mit 0,5 W möglicher Verlustleistung.
+
+Bei einer ungeregelten Spannungsquelle wie einem Netzteil aus Transformator mit Gleichrichter und Glättungskondensator führt der Innenwiderstand der Quelle zu einer starken Abhängigkeit der Ausgangsspannung vom Laststrom. Bei der obigen Formel ist dann zu beachten, dass U0 nicht die Leerlaufspannung ist, sondern die Ausgangsspannung beim Nennstrom I, welche sich bei kleinen Transformatoren (ca. 3 VA) gegenüber der Leerlaufspannung nahezu halbieren kann.
+
+Der Nachteil eines Vorwiderstands ist die Abhängigkeit des Stroms von der Versorgungsspannung. Das gilt vor allem dann, wenn eine relativ geringe Spannung am Vorwiderstand abfällt. Es ist daher kaum möglich, die Verluste dadurch zu verringern, dass nur eine kleine Spannungsdifferenz zwischen LED und Versorgungsnetz (z. B. Bordnetz eines KFZ) besteht.
+
+Beispiel: An ein 12-V-Bordnetz werden drei LEDs à 3,4 V angeschlossen, sodass bei einer Spannung U = 12 V nur 1,8 V für den Vorwiderstand verbleiben. Mit einem Vorwiderstand von 5,2 Ω ergibt sich so ein Strom von 348 mA. Beim Laden des Akkus im Auto können aber durchaus Spannungen bis 14,4 V auftreten. Das hätte dann einen praktisch verdoppelten Strom von rund 700 mA zur Folge (der Spannungsabfall an der LED steigt ebenfalls leicht an), obwohl sich die Bordspannung nur um 16 % erhöht hat. Die gewählte Ausführung ist somit nicht betriebssicher und damit ungeeignet. Abhilfe könnte eine verringerte Anzahl der in Reihe geschalteten Leuchtdioden oder eine Konstantstromquelle statt Vorwiderstand sein.
+
+Betrieb mit Konstantstromquelle[Bearbeiten | Quelltext bearbeiten]
+Beim Betrieb von Leuchtdioden an einer Konstantstromquelle entfällt das Problem der Abhängigkeit des Stromes von der Versorgungsspannung. Die LED kann dann über einen sehr weiten Spannungsbereich sicher betrieben werden. Konstantstromquellen lassen sich mit Transistoren oder integrierten Schaltungen realisieren.
+
+￼
+Als Stromquelle für LEDs geeignete Konstantstromquelle mit JFET
+Eine Möglichkeit zur Realisierung einer Konstantstromquelle bietet ein JFET mit Reihenwiderstand wie in nebenstehener Schaltskizze dargestellt. Diese Schaltung wird, da sie nur zwei Anschlüsse nach außen umfasst, als Stromregeldiode bezeichnet. Eine weitere Möglichkeit stellen lineare Spannungsregler dar, wie den LM317, welcher auch als Konstantstromquelle genutzt werden kann.[23][24]
+
+Betrieb mit Schaltregler[Bearbeiten | Quelltext bearbeiten]
+Lineare Schaltungen haben den Nachteil, dass sie das Produkt aus Spannungsdifferenz und Betriebsstrom in Form der Verlustleistung in Wärme umwandeln. Bei Hochleistungs-LEDs mit Betriebsströmen ab einigen 100 mA aufwärts werden zur Minimierung der Verluste häufig Schaltregler (Tiefsetzsteller) eingesetzt, welche auf einen konstanten Ausgangsstrom regeln. Schaltregler bieten auch die Möglichkeit, die Flussspannung der LED (bei weißen LEDs 2,5 V bis über 4 V) auch bei Betrieb an einer einzelnen Zelle (Akku, Primärzelle) zu erreichen (Hochsetzsteller).
+
+Schaltregler haben Wirkungsgrade von oft über 90 % und vermeiden daher die Verluste der vorgenannten Lösungen auch bei hohen Spannungsdifferenzen fast vollständig. Die hohe Schaltfrequenz und die Konstanthaltung des Stroms sorgen dafür, dass so betriebene LEDs für das menschliche Auge dennoch weitestgehend flimmerfrei leuchten. Außerdem kann man mit dafür ausgelegter Elektronik den Betriebsstrom und damit die Helligkeit mittels Pulsweitenmodulation (PWM) steuern. Dafür gibt es auch spezielle integrierte Schaltungen.
+
+Schaltregler haben den Nachteil, dass der grundlegende Aufbau aufwendiger ist und sie Störungen verursachen können, deren Unterdrückung weiteren Aufwand erfordert.
+
+Betrieb an Netzspannung[Bearbeiten | Quelltext bearbeiten]
+Der Betrieb einer LED an Netzspannung ist mit einem Gleichrichter und einem Vorschaltkondensator möglich. Die Summe der Flussspannungen der in Reihe geschalteten LEDs muss dabei deutlich geringer als die Netzspannung sein, um den Strom innerhalb der Netzspannungstoleranz ausreichend konstant zu halten. Diese oft in Leuchtmitteln angewendete Lösung erfordert zusätzlich einen Widerstand zur Strombegrenzung, der den Gleichrichter beziehungsweise die LED vor dem vom Vorschaltkondensator verursachten Einschaltstromstoß schützt und oft auch als Sicherung fungiert, sowie einen Siebkondensator, um das 100-Hz-Flimmern zu unterdrücken. Nahezu flimmerfreies Licht ist mit dieser Methode nur unter Verlusten und mit großem Siebkondensator zu erreichen. Dimmbarkeit mit Phasenanschnittdimmern ist nicht möglich. Die Stromaufnahme ist wegen der nichtlinearen LED-Kennlinie nicht sinusförmig.
+
+Um die vorgenannten Nachteile zu vermeiden, haben einschlägige Firmen eine Vielzahl von LED-Treibern und Treiber-IC entwickelt, mit denen u. a. folgende Eigenschaften erreicht werden:[25]
+
+Konstante Helligkeit auch bei Netzspannungs- und Temperaturschwankungen
+Begrenzte Dimmbarkeit mit üblichen Phasenanschnitt- oder Phasenabschnitt-Dimmern, dabei flimmerfreies Licht
+Temperaturmanagement
+Sinusförmige Netzstromaufnahme durch Leistungsfaktorkorrekturfilter (PFC)
+Viele Treiber bieten analoge oder digitale Schnittstellen zur Helligkeitssteuerung. Die Schaltungstopologien sind Sperrwandler, Tiefsetzsteller oder Resonanzwandler.
+
+Je höher die Spannung der LED-Kette, desto geringer der Strom (bei gleicher Leistung), und desto kleiner und billiger kann der Spannungswandler gebaut werden. Um höhere Spannungen zu erreichen, werden statt eines einzigen blauen LED-Chips mehrere kleinere in ein Gehäuse eingesetzt und in Reihe geschaltet. Inzwischen (Stand 2020) gibt es weiße LEDs mit 36 V Brennspannung und entsprechend vielen Chips im gleichen Gehäuse.
+
+Verbreitet sind LED-Leuchtfaden-Lampen mit Glaskolben, die optisch klassischen Glühlampen nachempfunden sind. Bei einer hinreichenden Anzahl von LED-Leuchtfäden in einem Glaskolben erreicht die in Summe benötigte Diodenspannung fast die Netzspannung, so dass zur Spannungsreduktion ein kleiner Vorschaltkondensator ausreicht.
+
+Handhabung[Bearbeiten | Quelltext bearbeiten]
+LED müssen nicht nur vor zu hohem Durchlassstrom, sondern auch vor zu hoher Sperrspannung geschützt werden. Viele Hersteller geben nur 3–5 V maximale Sperrspannung an. Daher müssen LED insbesondere bei Betrieb an Wechselspannung oder bei Verpolung vor zu hoher Sperrspannung geschützt werden. Das kann durch eine antiparallele Diode (das kann auch eine weitere LED sein) erfolgen. LED müssen daher wie auch andere Halbleiterbauelemente vor elektrostatischen Entladungen (ESD) geschützt werden. Sie werden in elektrostatisch ableitenden Verpackungen geliefert und gelagert und dürfen nur mit ESD-Schutzmaßnahmen gehandhabt und verarbeitet werden. Einige LED haben einen eingebauten ESD-Schutz.
+
+Ansteuerung großer Mengen[Bearbeiten | Quelltext bearbeiten]
+Soll eine große Anzahl RGB-LEDs individuell gesteuert werden, so erfordert die Ansteuerung mit herkömmlichen Methoden einen hohen Materialaufwand, da jeder einzelne Leuchtpunkt eine eigene Treiberschaltung benötigt. Zur Reduzierung des Aufwands kommen daher bei LED-Wänden Multiplexverfahren zum Einsatz, bei denen die einzelnen Bildpunkte nicht gleichzeitig, sondern in (für das träge menschliche Auge nicht erkennbarer) schneller Abfolge zyklisch angesteuert werden. Somit genügt es, für jede Reihe und jede Spalte nur noch eine Treiberschaltung zu verwenden.
+
+Bei LED-Streifen oder Kunstinstallationen haben sich Module etabliert, bei welchen sich im Gehäuse jeder RGB-LED neben den drei leuchtenden Chips zusätzlich ein digitaler Controller zur Ansteuerung befindet.[26] Über einen seriellen Datenbus können die gewünschten Helligkeitswerte vorgegeben werden. Die Adressierung erfolgt durch die Verbindungsreihenfolge der einzelnen Module (Daisy Chain).[27]
